@@ -1,0 +1,29 @@
+2025-02-08 12:22:54,765 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 12:22:54,798 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 12:22:54,809 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 12:23:33,439 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 12:23:33,465 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 12:23:33,472 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:10:08,700 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:10:08,742 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:10:08,780 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:12:36,451 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:12:36,496 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:12:36,536 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:12:58,327 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:12:58,360 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:12:58,392 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:17:35,033 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:17:35,078 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:17:35,118 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:18:03,491 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:18:03,529 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:18:03,567 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:18:33,902 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:18:33,930 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:18:33,938 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
+2025-02-08 13:20:06,271 - ConfigReader - INFO - reading Settings: headless
+2025-02-08 13:20:06,812 - ConfigReader - INFO - reading Application: URL
+2025-02-08 13:20:15,181 - app_log - INFO - filling standard_user for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='10']">
+2025-02-08 13:20:15,201 - app_log - INFO - filling secret_sauce for element <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='11']">
+2025-02-08 13:20:15,208 - app_log - INFO - clicking <Locator frame=<Frame name= url='https://www.saucedemo.com/v1/index.html'> selector="[tf623_id='12']">
