@@ -1,8 +1,10 @@
+from playwright.sync_api import Page
+
 from utilities.logger import Logger
 
 
 class UiInteractions(object):
-    def __init__(self, page):
+    def __init__(self, page: Page):
         self.logger = Logger()
         self.page = page
 
@@ -45,3 +47,6 @@ class UiInteractions(object):
         else:
             self.logger.error("value not found")
             raise ValueError("value not found")
+
+    def screenshot(self, test_name):
+        self.page.screenshot(path="./screenshots/" + test_name + ".png")
