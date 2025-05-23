@@ -1,11 +1,17 @@
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v2.3.0
     hooks:
-    -   id: check-yaml
-    -   id: end-of-file-fixer
-    -   id: trailing-whitespace
--   repo: https://github.com/psf/black
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-docstring-first
+      - id: check-json                    # Validate JSON syntax
+      - id: check-merge-conflict          # Prevent committing unresolved merge conflicts
+      - id: check-added-large-files       # Prevent committing large files (default > 5MB)
+      - id: debug-statements              # Detect `print` and `pdb` in code
+      - id: name-tests-test
+  - repo: https://github.com/psf/black
     rev: 22.10.0
     hooks:
-    -   id: black
+      - id: black

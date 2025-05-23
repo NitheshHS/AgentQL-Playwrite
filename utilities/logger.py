@@ -1,7 +1,10 @@
 import logging
 
+
 class Logger:
-    def __init__(self, log_name="app_log", log_level=logging.DEBUG, log_file="../logs/app.log"):
+    def __init__(
+        self, log_name="app_log", log_level=logging.DEBUG, log_file="../logs/app.log"
+    ):
         """
         Initializes the Logger with the provided settings.
 
